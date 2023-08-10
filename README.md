@@ -11,4 +11,8 @@ diferentes.
 
 ## Participantes
 
-**Gabriel Capoia** [![Instagram](https://img.shields.io/badge/-{Nome}-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})]({Link}) 
+**Gabriel Capoia** [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/capoiaa/)](https://www.instagram.com/capoiaa/)
+
+**Gabriel Henrique** [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&https://www.instagram.com/gabriel_llife/)](https://www.instagram.com/gabriel_llife/)
+
+**Breno Labs** [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/labs_breno/)](https://www.instagram.com/labs_breno/)
